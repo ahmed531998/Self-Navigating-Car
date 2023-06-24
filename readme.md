@@ -1,0 +1,1 @@
+An Autonomous Car that surveys a known area and interacts with humans using an STM32F103 Microcontroller, a Pololu TReX Motor Controller, a Dagu Wild Thumper 4WD Chassis, Sensors, a Bluetooth Module and a Mobile Phone.
